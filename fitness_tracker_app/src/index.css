@@ -1,0 +1,29 @@
+
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #937373;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: #4d8dcd;
+  text-shadow: 2px 2px 2px #000;
+}
+
+
+
